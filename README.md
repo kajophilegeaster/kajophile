@@ -11,7 +11,7 @@
 💻 Je code principalement en **JavaScript**, **PHP**, **SQL** et **React**.  
 🌱 En ce moment, j’explore **Next.js**, **IA appliquée** et **API REST**.  
 🎯 Mon objectif : créer des solutions simples, élégantes et performantes.  
-📫 Contacte-moi : [LinkedIn](https://linkedin.com/in/kajophile gesater) • [Portfolio](https://Cv-kaj.php) • [Email](mailto:kajophilegeaster@gmail.com)
+📫 Contacte-moi : [LinkedIn](https://linkedin.com/in/kajophile%gesater) • [Portfolio](https://Cv-kaj.onrender.com) • [Email](mailto:kajophilegeaster@gmail.com)
 
 ---
 
