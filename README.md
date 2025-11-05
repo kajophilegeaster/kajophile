@@ -1,9 +1,32 @@
-<!-- 🌟 Profil README de Kajophile Geaster -->
-<h1 align="center">👋 Salut, moi c’est <strong>Kajophile Geaster</strong></h1>
+<!-- 🌌 Profil README de Kajophile Geaster (Version Dark Mode) -->
+<div align="center" style="
+  position: relative;
+  background: url('https://i.gifer.com/7sc6.gif') center/cover no-repeat;
+  padding: 40px;
+  border-radius: 20px;
+  overflow: hidden;
+">
 
-<p align="center">
-  <em>💡 Développeur passionné par le developpement web et l’intelligence artificielle</em>
-</p>
+<!-- Couche de filtre sombre -->
+<div style="
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 0;
+  border-radius: 20px;
+"></div>
+
+<!-- Contenu -->
+<div style="position: relative; z-index: 1; color: #e6e6e6;">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c’est+Kajophile+Geaster+👋;Développeur+web+et+IA+💡;Bienvenue+sur+mon+profil+🚀" alt="Typing SVG" />
+  </h1>
+
+  <p>
+    <em>💡 Développeur passionné par le développement web et l’intelligence artificielle</em>
+  </p>
+</div>
+</div>
 
 ---
 
@@ -18,9 +41,9 @@
 ### 🚀 Projets phares
 | Projet | Description | Liens |
 |:--|:--|:--:|
-| 🧠 **NeuraNote** | Prise de notes intelligente avec IA intégrée | [🔗 Voir](https://github.com/kajophile/neuranote) |
-| 💬 **ChatSphere** | Application de chat en temps réel avec React + Socket.io | [🔗 Voir](https://github.com/kajophile/chatsphere) |
-| 🌐 **Portflow** | Portfolio dynamique et responsive | [🔗 Voir](https://github.com/kajophile/portflow) |
+| 💬 **Kaj-Mes** | Application de messagerie en PHP et MySQL avec système d’authentification | [🔗 Voir](https://kaj-mes.ct.ws/register.php) |
+| 🎓 **Kaj-Lernen** | Plateforme de vente de formations en ligne avec interface utilisateur moderne | [🔗 Voir](https://kaj-lernen.ct.ws/) |
+| 🛍️ **Kaj-Shop** | Boutique e-commerce responsive pour la vente de consoles et produits tech | [🔗 Voir](https://kaj-shop.rf.gd) |
 
 ---
 
@@ -31,26 +54,37 @@
 `JavaScript` • `TypeScript` • `Python` • `PHP`
 
 ⚙️ **Frameworks :**  
-`React` • `Node.js` • `Laravel` `Bootstrap`
+`React` • `Node.js` • `Laravel` • `Bootstrap`
 
 🧰 **Outils :**  
-`Git` • `Docker` • `VS Code` • `Figma` `Laravel`
+`Git` • `Docker` • `VS Code` • `Figma`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,laravel,mysql,html,css,git,figma,docker" alt="Tech Stack" />
 
 </div>
 
 ---
 
-### 📊 Mes stats GitHub
+### 📊 Mes statistiques GitHub
 <div align="center">
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kajophile&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kajophile&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kajophile&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff)  
+![GitHub Streak](https://streak-stats.demolab.com?user=kajophile&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
 ---
 
-### ✨ Fun fact
+### 🧠 En cours de développement
+- 🏋️ **ZenMind** — Application de sport et bien-être avec suivi de progression  
+- 🤖 **NeuraNote AI** — Bloc-notes intelligent avec analyse automatique des idées  
+
+---
+
+### ✨ Citation inspirante
 > “Le code propre, c’est comme une bonne blague : il ne faut pas avoir à l’expliquer.”
 
 ---
