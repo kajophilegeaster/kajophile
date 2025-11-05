@@ -1,32 +1,10 @@
-<!-- 🌌 Profil README de Kajophile Geaster (Version Dark Mode) -->
-<div align="center" style="
-  position: relative;
-  background: url('https://i.gifer.com/7sc6.gif') center/cover no-repeat;
-  padding: 40px;
-  border-radius: 20px;
-  overflow: hidden;
-">
+<!-- 🌙 Profil README de Kajophile Geaster (Version épurée et sombre) -->
 
-<!-- Couche de filtre sombre -->
-<div style="
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.7);
-  z-index: 0;
-  border-radius: 20px;
-"></div>
+<h1 align="center" style="color: #58a6ff;">👋 Salut, moi c’est <strong>Kaj Geazy</strong></h1>
 
-<!-- Contenu -->
-<div style="position: relative; z-index: 1; color: #e6e6e6;">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c’est+Kajophile+Geaster+👋;Développeur+web+et+IA+💡;Bienvenue+sur+mon+profil+🚀" alt="Typing SVG" />
-  </h1>
-
-  <p>
-    <em>💡 Développeur passionné par le développement web et l’intelligence artificielle</em>
-  </p>
-</div>
-</div>
+<p align="center">
+  <em>💡 Développeur passionné par le développement web et l’intelligence artificielle</em>
+</p>
 
 ---
 
@@ -86,14 +64,6 @@
 
 ### ✨ Citation inspirante
 > “Le code propre, c’est comme une bonne blague : il ne faut pas avoir à l’expliquer.”
-
----
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Développeur+curieux+et+créatif;Toujours+en+quête+d’apprentissage;Bienvenue+sur+mon+GitHub+🚀)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
